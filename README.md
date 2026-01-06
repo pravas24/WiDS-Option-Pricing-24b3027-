@@ -1,21 +1,21 @@
 # WiDS-Option-Pricing-24b3027-
-📈 Option Pricing Model — Python Foundations & Analysis
+**Option Pricing Model — Python Foundations & Analysis**
 
 This repository documents a step-by-step learning and implementation journey toward building an Option Pricing Model using Python.
 The work is structured into two weeks, progressing from core Python skills to data analysis, visualization, and regression modeling, which together form the foundation for option pricing techniques such as Black–Scholes and empirical pricing models.
 
-📅 Week 1 — Python Foundations
+**Week 1 — Python Foundations**
 
 Week 1 focuses on building strong core Python skills, essential for implementing financial models cleanly and accurately.
 
-Covered Topics:
+**Covered Topics:**
 Conditional logic and control flow
 Loops and iteration
 Functions and modular code
 Lists, strings, dictionaries
 Basic pandas usage for structured data
 
-📘 Notebooks
+ Notebooks
 1. Function Practice Exercises-
 Custom function creation
 Logical problem solving
@@ -41,17 +41,17 @@ List comprehensions
 Conditional branching
 Clean and efficient Python syntax
 
-Week 2 — Data Analysis & Modeling
+**Week 2 — Data Analysis & Modeling**
 
 Week 2 builds directly on Week 1 by applying Python skills to data visualization and statistical modeling, key steps toward option pricing.
 
-Covered Topics
+**Covered Topics**
 Data visualization with Matplotlib
 Trend analysis and relationships
 Linear regression modeling
 Interpretation of coefficients and fit
 
-📘 Notebooks
+ Notebooks
 5. Matplotlib Exercises-
 Line plots, scatter plots, histograms
 Subplots and figure control
