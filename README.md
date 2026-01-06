@@ -16,26 +16,26 @@ Lists, strings, dictionaries
 Basic pandas usage for structured data
 
 📘 Notebooks
-1. Function Practice Exercises
+1. Function Practice Exercises-
 Custom function creation
 Logical problem solving
 Input–output validation
 Financial relevance: reusable payoff and utility functions
 
-2. Guessing Game Challenge
+2. Guessing Game Challenge-
 Loop control and state tracking
 User input handling
 Logical flow control
 Financial relevance: simulation-style thinking
 
-3. Pandas SF Salaries Exercise
+3. Pandas SF Salaries Exercise-
 DataFrame exploration
 Grouping and aggregation
 Handling missing data
 
 Financial relevance: structured financial datasets
 
-4. Python Statements Assessment Test
+4. Python Statements Assessment Test-
 For-loops and while-loops
 List comprehensions
 Conditional branching
@@ -52,12 +52,12 @@ Linear regression modeling
 Interpretation of coefficients and fit
 
 📘 Notebooks
-5. Matplotlib Exercises
+5. Matplotlib Exercises-
 Line plots, scatter plots, histograms
 Subplots and figure control
 Visual analysis of distributions and trends
 
-6. Linear Regression Project
+6. Linear Regression Project-
 Data preparation and feature selection
 Model fitting using regression
 Interpretation of slope, intercept, and R²
